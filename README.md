@@ -1,3 +1,0 @@
-# vscodesamples
-
-Test VS Code
